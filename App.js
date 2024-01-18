@@ -32,6 +32,9 @@ export default class App extends React.Component {
           }}
         />
 
+<Text>
+  Faith
+</Text>
         <Image
           style={styles.imageIcon}
           source={{
